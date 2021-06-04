@@ -15,6 +15,7 @@
 - [http-trace](https://github.com/vicanso/http-trace) http trace模块，用于生成http请求各阶段：dns、tcp连接等的耗时记录
 - [ips](https://github.com/vicanso/ips) 校验IP地址是否符合列表中的值，支持网络组
 - [lru-ttl](https://github.com/vicanso/lru-ttl) 基于LRU的带ttl的缓存
+- [static](https://github.com/vicanso/static) 静态文件HTTP服务，提供对静态文件的HTTP访问
 - [tiny](https://github.com/vicanso/tiny) 图片、文本的各类压缩处理
 - [viperx](https://github.com/vicanso/viperx) viper配置模块的增强，支持指定多配置文件自动合并，以及提供常用的配置获取函数
 
