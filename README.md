@@ -13,6 +13,7 @@
 - [pike](https://github.com/vicanso/pike) HTTP缓存服务（与varnish类似）
 - [go-axios](https://github.com/vicanso/go-axios) golang的http客户端模块，提供简便强大的HTTP调用方式
 - [go-cache](https://github.com/vicanso/go-cache) 封装了常用的基于redis的缓存，以及基于redis+lru的二级缓存
+- [go-gauge](https://github.com/vicanso/go-gauge) 提供简单的计算函数，如总和、平均值、最大值等。 
 - [go-parallel](https://github.com/vicanso/go-parallel) golang的各类并发处理函数，如parallel、race等
 - [go-performance](https://github.com/vicanso/go-performance) 获取golang应用程序的各类指标，如内存、CPU等
 - [hes](https://github.com/vicanso/hes) 统一的HTTP出错类，用于规范化REST接口的出错响应
