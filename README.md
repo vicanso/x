@@ -22,6 +22,7 @@
 - [ips](https://github.com/vicanso/ips) 校验IP地址是否符合列表中的值，支持网络组
 - [lru-ttl](https://github.com/vicanso/lru-ttl) 基于LRU的带ttl的缓存
 - [static](https://github.com/vicanso/static) 静态文件HTTP服务，提供对静态文件的HTTP访问
+- [superjson](https://github.com/vicanso/superjson) 提供从json中挑选指定字段或字段格式转换（驼峰式、下划线式等）
 - [tiny](https://github.com/vicanso/tiny) 图片、文本的各类压缩处理
 - [upstream](https://github.com/vicanso/upstream) HTTP Upstream模块，提供多种upstream的选择方式
 - [viperx](https://github.com/vicanso/viperx) viper配置模块的增强，支持指定多配置文件自动合并，以及提供常用的配置获取函数
