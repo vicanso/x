@@ -9,6 +9,7 @@
 - [elton-json-picker](https://github.com/vicanso/elton-json-picker) 可指定从响应的json中挑选需要返回的字段，减少数据传输
 - [elton-jwt](https://github.com/vicanso/elton-jwt) elton的jwt中间件
 - [elton-session](https://github.com/vicanso/elton-session) elton session模块，默认支持memory形式保存session，可自定义存储方式，如redis
+- [forest](https://github.com/vicanso/forest) 基于elton的web服务框架
 - [keygrip](https://github.com/vicanso/keygrip) 生成签名与校验的工具，参考`crypto-utils/keygrip`实现
 - [pike](https://github.com/vicanso/pike) HTTP缓存服务（与varnish类似）
 - [go-axios](https://github.com/vicanso/go-axios) golang的http客户端模块，提供简便强大的HTTP调用方式
