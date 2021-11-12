@@ -27,6 +27,7 @@
 - [tiny](https://github.com/vicanso/tiny) 图片、文本的各类压缩处理
 - [upstream](https://github.com/vicanso/upstream) HTTP Upstream模块，提供多种upstream的选择方式
 - [viperx](https://github.com/vicanso/viperx) viper配置模块的增强，支持指定多配置文件自动合并，以及提供常用的配置获取函数
+- [web-screenshot](https://github.com/vicanso/web-screenshot) 网页截屏工具，可指定地址生成截图
 
 ### nodejs
 
