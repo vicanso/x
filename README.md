@@ -5,7 +5,7 @@
 - [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改
 - [dnscache](https://github.com/vicanso/dnscache) DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能
 - [elton](https://github.com/vicanso/elton) 简单高性能的HTTP框架
-- [elton-compress](https://github.com/vicanso/elton-compress) elton压缩中间件扩展，提供`br`、`snappy`、`zstd`与`lz4`压缩方式
+- [elton-compress](https://github.com/vicanso/elton-compress) elton压缩中间件扩展，提供`snappy`、`zstd`与`lz4`压缩方式
 - [elton-json-picker](https://github.com/vicanso/elton-json-picker) 可指定从响应的json中挑选需要返回的字段，减少数据传输
 - [elton-jwt](https://github.com/vicanso/elton-jwt) elton的jwt中间件
 - [elton-session](https://github.com/vicanso/elton-session) elton session模块，默认支持memory形式保存session，可自定义存储方式，如redis
