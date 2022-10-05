@@ -2,6 +2,7 @@
 
 ### golang
 
+- [CyberAPI](https://github.com/vicanso/cyberapi) 基于tauri的HTTP API客户端工具，更小更快
 - [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改
 - [dnscache](https://github.com/vicanso/dnscache) DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能
 - [elton](https://github.com/vicanso/elton) 简单高性能的HTTP框架
