@@ -18,7 +18,6 @@
 - [go-charts](https://github.com/vicanso/go-charts) 纯golang的图表库，兼容echarts的图表配置快速生成PNG或SVG的图表
 - [go-gauge](https://github.com/vicanso/go-gauge) 提供简单的计算函数，如总和、平均值、最大值等。 
 - [go-mask](https://github.com/vicanso/go-mask) 提供转换struct为map[string]interface{}，并根据字段***或截断处理
-- [go-parallel](https://github.com/vicanso/go-parallel) golang的各类并发处理函数，如parallel、race等
 - [go-performance](https://github.com/vicanso/go-performance) 获取golang应用程序的各类指标，如内存、CPU等
 - [hes](https://github.com/vicanso/hes) 统一的HTTP出错类，用于规范化REST接口的出错响应
 - [http-trace](https://github.com/vicanso/http-trace) http trace模块，用于生成http请求各阶段：dns、tcp连接等的耗时记录
