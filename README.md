@@ -22,6 +22,7 @@
 - [go-performance](https://github.com/vicanso/go-performance) 获取golang应用程序的各类指标，如内存、CPU等
 - [hes](https://github.com/vicanso/hes) 统一的HTTP出错类，用于规范化REST接口的出错响应
 - [http-trace](https://github.com/vicanso/http-trace) http trace模块，用于生成http请求各阶段：dns、tcp连接等的耗时记录
+- [image-optim](https://github.com/vicanso/image-optim) 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值
 - [image-pipeline](https://github.com/vicanso/image-pipeline) 图片的Pipeline处理，提供组合式的图片任务组合，可以快速简单的添加水印、裁剪、转换图片等
 - [image-pipeline-server](https://github.com/vicanso/image-pipeline-server) 简单快捷的形式部署图片处理服务，可通过环境变量指定各类存储服务以及图片处理方式
 - [ips](https://github.com/vicanso/ips) 校验IP地址是否符合列表中的值，支持网络组
