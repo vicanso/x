@@ -26,6 +26,7 @@
 - [image-pipeline](https://github.com/vicanso/image-pipeline) 图片的Pipeline处理，提供组合式的图片任务组合，可以快速简单的添加水印、裁剪、转换图片等
 - [image-pipeline-server](https://github.com/vicanso/image-pipeline-server) 简单快捷的形式部署图片处理服务，可通过环境变量指定各类存储服务以及图片处理方式
 - [ips](https://github.com/vicanso/ips) 校验IP地址是否符合列表中的值，支持网络组
+- [location-rs](https://github.com/vicanso/location-rs) 根据IP获取位置信息，支持IPV4与IPV6
 - [lru-ttl](https://github.com/vicanso/lru-ttl) 基于LRU的带ttl的缓存
 - [static](https://github.com/vicanso/static) 静态文件HTTP服务，提供对静态文件的HTTP访问
 - [superjson](https://github.com/vicanso/superjson) 提供从json中挑选指定字段或字段格式转换（驼峰式、下划线式等）
