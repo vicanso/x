@@ -2,6 +2,7 @@
 
 ### golang
 
+- [charts-rs](https://github.com/vicanso/charts-rs) 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`以及`table`
 - [CyberAPI](https://github.com/vicanso/cyberapi) 基于tauri的HTTP API客户端工具，更小更快
 - [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改(后续不再维护，请使用diving-rs)
 - [diving-rs](https://github.com/vicanso/diving-rs) rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷
