@@ -1,11 +1,15 @@
 ## 我的开源项目
 
-### golang
+### rust
 
 - [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`以及`table`
 - [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快
-- [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改(后续不再维护，请使用diving-rs)
 - [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷
+- [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值
+
+### golang
+
+- [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改(后续不再维护，请使用diving-rs)
 - [dnscache](https://github.com/vicanso/dnscache) DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能
 - [elton](https://github.com/vicanso/elton) 简单高性能的HTTP框架
 - [elton-compress](https://github.com/vicanso/elton-compress) elton压缩中间件扩展，提供`snappy`、`zstd`与`lz4`压缩方式
@@ -23,7 +27,6 @@
 - [go-performance](https://github.com/vicanso/go-performance) 获取golang应用程序的各类指标，如内存、CPU等
 - [hes](https://github.com/vicanso/hes) 统一的HTTP出错类，用于规范化REST接口的出错响应
 - [http-trace](https://github.com/vicanso/http-trace) http trace模块，用于生成http请求各阶段：dns、tcp连接等的耗时记录
-- [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值
 - [image-pipeline](https://github.com/vicanso/image-pipeline) 图片的Pipeline处理，提供组合式的图片任务组合，可以快速简单的添加水印、裁剪、转换图片等
 - [image-pipeline-server](https://github.com/vicanso/image-pipeline-server) 简单快捷的形式部署图片处理服务，可通过环境变量指定各类存储服务以及图片处理方式
 - [ips](https://github.com/vicanso/ips) 校验IP地址是否符合列表中的值，支持网络组
