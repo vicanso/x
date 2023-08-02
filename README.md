@@ -10,8 +10,8 @@
 ### golang
 
 - [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改(后续不再维护，请使用diving-rs)
-- [dnscache](https://github.com/vicanso/dnscache) DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能
-- [elton](https://github.com/vicanso/elton) 简单高性能的HTTP框架
+- [dnscache](https://github.com/vicanso/dnscache) :fire: DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能
+- [elton](https://github.com/vicanso/elton) :fire: 简单高性能的HTTP框架
 - [elton-compress](https://github.com/vicanso/elton-compress) elton压缩中间件扩展，提供`snappy`、`zstd`与`lz4`压缩方式
 - [elton-json-picker](https://github.com/vicanso/elton-json-picker) 可指定从响应的json中挑选需要返回的字段，减少数据传输
 - [elton-jwt](https://github.com/vicanso/elton-jwt) elton的jwt中间件
@@ -20,7 +20,7 @@
 - [keygrip](https://github.com/vicanso/keygrip) 生成签名与校验的工具，参考`crypto-utils/keygrip`实现
 - [pike](https://github.com/vicanso/pike) HTTP缓存服务（与varnish类似）
 - [go-axios](https://github.com/vicanso/go-axios) golang的http客户端模块，提供简便强大的HTTP调用方式
-- [go-cache](https://github.com/vicanso/go-cache) 封装了常用的基于redis的缓存，以及基于redis+lru的二级缓存
+- [go-cache](https://github.com/vicanso/go-cache) :fire: 封装了常用的基于redis的缓存，以及基于redis+lru的二级缓存
 - [go-charts](https://github.com/vicanso/go-charts) 纯golang的图表库，兼容echarts的图表配置快速生成PNG或SVG的图表
 - [go-gauge](https://github.com/vicanso/go-gauge) 提供简单的计算函数，如总和、平均值、最大值等。 
 - [go-mask](https://github.com/vicanso/go-mask) 提供转换struct为map[string]interface{}，并根据字段***或截断处理
