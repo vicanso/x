@@ -2,7 +2,7 @@
 
 ### rust
 
-- [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`， `candlestick` `table` 以及`multi chart`
+- [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`， `candlestick`， `table` 以及`multi chart`
 - [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快
 - [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷
 - [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值
