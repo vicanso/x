@@ -2,17 +2,17 @@
 
 ### rust
 
-- [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`， `candlestick`， `table` 以及`multi chart`
-- [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快
-- [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷
-- [image-converter](https://github.com/vicanso/image-converter) :fire: 图片压缩转换工具，多系统版本的GUI工具，方便简单
-- [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值
+- [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`， `candlestick`， `table` 以及`multi chart`。![Github stars](https://img.shields.io/github/stars/vicanso/charts-rs)
+- [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快。![Github stars](https://img.shields.io/github/stars/vicanso/cyberapi)
+- [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷。![Github stars](https://img.shields.io/github/stars/vicanso/diving-rs)
+- [image-converter](https://github.com/vicanso/image-converter) :fire: 图片压缩转换工具，多系统版本的GUI工具，方便简单。![Github stars](https://img.shields.io/github/stars/vicanso/image-converter)
+- [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值。![Github stars](https://img.shields.io/github/stars/vicanso/image-optim)
 
 ### golang
 
 - [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改(后续不再维护，请使用diving-rs)
 - [dnscache](https://github.com/vicanso/dnscache) :fire: DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能
-- [elton](https://github.com/vicanso/elton) :fire: 简单高性能的HTTP框架
+- [elton](https://github.com/vicanso/elton) :fire: 简单高性能的HTTP框架。![Github stars](https://img.shields.io/github/stars/vicanso/elton)
 - [elton-compress](https://github.com/vicanso/elton-compress) elton压缩中间件扩展，提供`snappy`、`zstd`与`lz4`压缩方式
 - [elton-json-picker](https://github.com/vicanso/elton-json-picker) 可指定从响应的json中挑选需要返回的字段，减少数据传输
 - [elton-jwt](https://github.com/vicanso/elton-jwt) elton的jwt中间件
