@@ -11,7 +11,7 @@
 ### golang
 
 - [diving](https://github.com/vicanso/diving) 基于dive的镜像分析工具网页版，可以简单的查看镜像中每层的修改(后续不再维护，请使用diving-rs)
-- [dnscache](https://github.com/vicanso/dnscache) :fire: DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能
+- [dnscache](https://github.com/vicanso/dnscache) :fire: DNS缓存，可以缓存DNS的解析记录，避免过多的DNS解析影响性能。![Github stars](https://img.shields.io/github/stars/vicanso/dnscache)
 - [elton](https://github.com/vicanso/elton) :fire: 简单高性能的HTTP框架。![Github stars](https://img.shields.io/github/stars/vicanso/elton)
 - [elton-compress](https://github.com/vicanso/elton-compress) elton压缩中间件扩展，提供`snappy`、`zstd`与`lz4`压缩方式
 - [elton-json-picker](https://github.com/vicanso/elton-json-picker) 可指定从响应的json中挑选需要返回的字段，减少数据传输
@@ -21,13 +21,13 @@
 - [keygrip](https://github.com/vicanso/keygrip) 生成签名与校验的工具，参考`crypto-utils/keygrip`实现
 - [pike](https://github.com/vicanso/pike) HTTP缓存服务（与varnish类似）
 - [go-axios](https://github.com/vicanso/go-axios) golang的http客户端模块，提供简便强大的HTTP调用方式
-- [go-cache](https://github.com/vicanso/go-cache) :fire: 封装了常用的基于redis的缓存，以及基于redis+lru的二级缓存
+- [go-cache](https://github.com/vicanso/go-cache) :fire: 封装了常用的基于redis的缓存，以及基于redis+lru的二级缓存。![Github stars](https://img.shields.io/github/stars/vicanso/go-cache)
 - [go-charts](https://github.com/vicanso/go-charts) 纯golang的图表库，兼容echarts的图表配置快速生成PNG或SVG的图表
 - [go-gauge](https://github.com/vicanso/go-gauge) 提供简单的计算函数，如总和、平均值、最大值等。 
 - [go-mask](https://github.com/vicanso/go-mask) 提供转换struct为map[string]interface{}，并根据字段***或截断处理
 - [go-performance](https://github.com/vicanso/go-performance) 获取golang应用程序的各类指标，如内存、CPU等
 - [hes](https://github.com/vicanso/hes) 统一的HTTP出错类，用于规范化REST接口的出错响应
-- [http-trace](https://github.com/vicanso/http-trace) http trace模块，用于生成http请求各阶段：dns、tcp连接等的耗时记录
+- [http-trace](https://github.com/vicanso/http-trace) :fire: http trace模块，用于生成http请求各阶段：dns、tcp连接等的耗时记录。![Github stars](https://img.shields.io/github/stars/vicanso/http-trace)
 - [image-pipeline](https://github.com/vicanso/image-pipeline) 图片的Pipeline处理，提供组合式的图片任务组合，可以快速简单的添加水印、裁剪、转换图片等
 - [image-pipeline-server](https://github.com/vicanso/image-pipeline-server) 简单快捷的形式部署图片处理服务，可通过环境变量指定各类存储服务以及图片处理方式
 - [ips](https://github.com/vicanso/ips) 校验IP地址是否符合列表中的值，支持网络组
