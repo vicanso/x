@@ -4,6 +4,7 @@
 
 - [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`， `candlestick`， `table` 以及`multi chart`。![Github stars](https://img.shields.io/github/stars/vicanso/charts-rs)
 - [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快。![Github stars](https://img.shields.io/github/stars/vicanso/cyberapi)
+- [Pingap](https://github.com/vicanso/pingap) :fire: 基于pingora开发的类似nginx反向代理。![Github stars](https://img.shields.io/github/stars/vicanso/pingap)
 - [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷。![Github stars](https://img.shields.io/github/stars/vicanso/diving-rs)
 - [springbok](https://github.com/vicanso/springbok) :fire: 图片压缩转换工具，多系统版本的GUI工具，方便简单。![Github stars](https://img.shields.io/github/stars/vicanso/springbok)
 - [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值。![Github stars](https://img.shields.io/github/stars/vicanso/image-optim)
@@ -23,8 +24,8 @@
 - [go-axios](https://github.com/vicanso/go-axios) golang的http客户端模块，提供简便强大的HTTP调用方式
 - [go-cache](https://github.com/vicanso/go-cache) :fire: 封装了常用的基于redis的缓存，以及基于redis+lru的二级缓存。![Github stars](https://img.shields.io/github/stars/vicanso/go-cache)
 - [go-charts](https://github.com/vicanso/go-charts) 纯golang的图表库，兼容echarts的图表配置快速生成PNG或SVG的图表
-- [go-gauge](https://github.com/vicanso/go-gauge) 提供简单的计算函数，如总和、平均值、最大值等。 
-- [go-mask](https://github.com/vicanso/go-mask) 提供转换struct为map[string]interface{}，并根据字段***或截断处理
+- [go-gauge](https://github.com/vicanso/go-gauge) 提供简单的计算函数，如总和、平均值、最大值等。
+- [go-mask](https://github.com/vicanso/go-mask) 提供转换struct为map[string]interface{}，并根据字段\*\*\*或截断处理
 - [go-performance](https://github.com/vicanso/go-performance) 获取golang应用程序的各类指标，如内存、CPU等
 - [hes](https://github.com/vicanso/hes) 统一的HTTP出错类，用于规范化REST接口的出错响应
 - [http-trace](https://github.com/vicanso/http-trace) :fire: http trace模块，用于生成http请求各阶段：dns、tcp连接等的耗时记录。![Github stars](https://img.shields.io/github/stars/vicanso/http-trace)
