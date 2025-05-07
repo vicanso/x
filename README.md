@@ -10,6 +10,7 @@
 - [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值。![Github stars](https://img.shields.io/github/stars/vicanso/image-optim)
 - [archiver-rs](https://github.com/vicanso/archiver-rs) 将目录文件先压缩后再按tar的方式打包，方便可以在非解压时读取单个文件
 - [tibba](https://github.com/vicanso/tibba) 基于axum的web服务框架
+- [httpstat](https://github.com/vicanso/http-stat-rs) 获取http请求各阶段的耗时统计，支持http2与http3。![Github stars](https://img.shields.io/github/stars/vicanso/http-stat-rs)
 
 ### golang
 
