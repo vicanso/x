@@ -10,7 +10,8 @@
 - [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值。![Github stars](https://img.shields.io/github/stars/vicanso/image-optim)
 - [archiver-rs](https://github.com/vicanso/archiver-rs) 将目录文件先压缩后再按tar的方式打包，方便可以在非解压时读取单个文件
 - [tibba](https://github.com/vicanso/tibba) 基于axum的web服务框架
-- [httpstat](https://github.com/vicanso/http-stat-rs) 获取http请求各阶段的耗时统计，支持http2与http3。![Github stars](https://img.shields.io/github/stars/vicanso/http-stat-rs)
+- [httpstat](https://github.com/vicanso/http-stat-rs) :fire: 获取http请求各阶段的耗时统计，支持http2与http3。![Github stars](https://img.shields.io/github/stars/vicanso/http-stat-rs)
+- [static](https://github.com/vicanso/static) 静态文件HTTP服务，提供对静态文件的HTTP访问
 
 ### golang
 
@@ -37,7 +38,6 @@
 - [ips](https://github.com/vicanso/ips) 校验IP地址是否符合列表中的值，支持网络组
 - [location-rs](https://github.com/vicanso/location-rs) 根据IP获取位置信息，支持IPV4与IPV6
 - [lru-ttl](https://github.com/vicanso/lru-ttl) 基于LRU的带ttl的缓存
-- [static](https://github.com/vicanso/static) 静态文件HTTP服务，提供对静态文件的HTTP访问
 - [superjson](https://github.com/vicanso/superjson) 提供从json中挑选指定字段或字段格式转换（驼峰式、下划线式等）
 - [tiny](https://github.com/vicanso/tiny) 图片、文本的各类压缩处理
 - [upstream](https://github.com/vicanso/upstream) HTTP Upstream模块，提供多种upstream的选择方式
