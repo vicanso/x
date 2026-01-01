@@ -2,6 +2,7 @@
 
 ### rust
 
+- [zedis](https://github.com/vicanso/zedis) :fire: 一款使用 Rust 和 GPUI 构建的极速原生 Redis 图形用户界面。![Github stars](https://img.shields.io/github/stars/vicanso/zedis)
 - [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`， `candlestick`， `table` 以及`multi chart`。![Github stars](https://img.shields.io/github/stars/vicanso/charts-rs)
 - [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快。![Github stars](https://img.shields.io/github/stars/vicanso/cyberapi)
 - [Pingap](https://github.com/vicanso/pingap) :fire: 基于pingora开发的类似nginx反向代理。![Github stars](https://img.shields.io/github/stars/vicanso/pingap)
