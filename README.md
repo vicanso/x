@@ -13,6 +13,8 @@
 - [tibba](https://github.com/vicanso/tibba) 基于axum的web服务框架
 - [httpstat](https://github.com/vicanso/http-stat-rs) :fire: 获取http请求各阶段的耗时统计，支持http2与http3。![Github stars](https://img.shields.io/github/stars/vicanso/http-stat-rs)
 - [static](https://github.com/vicanso/static) 静态文件HTTP服务，提供对静态文件的HTTP访问
+- [browser-headless](https://github.com/vicanso/browser-headless) 一个 headless Chrome 的 HTTP 服务。传入 URL，一次请求拿回页面的结构化快照： 渲染后的 HTML / 纯文本 / Markdown、性能时间线、每条网络资源、JS 异常、 console 日志、Cookie，以及可选的截图 / PDF / HAR / DOM snapshot。
+
 
 ### golang
 
