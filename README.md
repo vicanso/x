@@ -9,7 +9,6 @@
 - [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷。![Github stars](https://img.shields.io/github/stars/vicanso/diving-rs)
 - [springbok](https://github.com/vicanso/springbok) :fire: 图片压缩转换工具，多系统版本的GUI工具，方便简单。![Github stars](https://img.shields.io/github/stars/vicanso/springbok)
 - [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值。![Github stars](https://img.shields.io/github/stars/vicanso/image-optim)
-- [archiver-rs](https://github.com/vicanso/archiver-rs) 将目录文件先压缩后再按tar的方式打包，方便可以在非解压时读取单个文件
 - [tibba](https://github.com/vicanso/tibba) 基于axum的web服务框架
 - [httpstat](https://github.com/vicanso/http-stat-rs) :fire: 获取http请求各阶段的耗时统计，支持http2与http3。![Github stars](https://img.shields.io/github/stars/vicanso/http-stat-rs)
 - [static](https://github.com/vicanso/static) 静态文件HTTP服务，提供对静态文件的HTTP访问
