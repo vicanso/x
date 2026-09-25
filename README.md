@@ -3,10 +3,10 @@
 ### rust
 
 - [zedis](https://github.com/vicanso/zedis) :fire: 一款使用 Rust 和 GPUI 构建的极速原生 Redis 图形用户界面。![Github stars](https://img.shields.io/github/stars/vicanso/zedis)
+- [Pingap](https://github.com/vicanso/pingap) :fire: 基于pingora开发的类似nginx反向代理。![Github stars](https://img.shields.io/github/stars/vicanso/pingap)
 - [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成PNG或SVG的图表，支持`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`， `candlestick`， `table` 以及`multi chart`。![Github stars](https://img.shields.io/github/stars/vicanso/charts-rs)
 - [zstats](https://github.com/vicanso/zstats.app) macOS 菜单栏系统监控，围绕「按应用定规则」构建：托盘实时显示 CPU，面板提供进程监控、每个程序可各设一条线的阈值告警与磁盘空间分析，支持识别并安全清理可再生缓存。
 - [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快。![Github stars](https://img.shields.io/github/stars/vicanso/cyberapi)
-- [Pingap](https://github.com/vicanso/pingap) :fire: 基于pingora开发的类似nginx反向代理。![Github stars](https://img.shields.io/github/stars/vicanso/pingap)
 - [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，提供命令行与网页版本两种模式，不再依赖于docker client，性能更快更便捷。![Github stars](https://img.shields.io/github/stars/vicanso/diving-rs)
 - [springbok](https://github.com/vicanso/springbok) :fire: 图片压缩转换工具，多系统版本的GUI工具，方便简单。![Github stars](https://img.shields.io/github/stars/vicanso/springbok)
 - [image-optim](https://github.com/vicanso/image-optim) :fire: 图片压缩服务，支持缩放、裁剪、水印以及图片格式转换功能，并计算压缩之后(同样的尺寸)的图片的差异值。![Github stars](https://img.shields.io/github/stars/vicanso/image-optim)
