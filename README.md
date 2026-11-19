@@ -4,11 +4,12 @@
 
 - [zedis](https://github.com/vicanso/zedis) :fire: 一款使用 Rust 和 GPUI 构建的极速原生 Redis 图形用户界面。![Github stars](https://img.shields.io/github/stars/vicanso/zedis)
 - [Pingap](https://github.com/vicanso/pingap) :fire: 基于pingora开发的类似nginx反向代理。![Github stars](https://img.shields.io/github/stars/vicanso/pingap)
+- [zniff](https://github.com/vicanso/zniff) 基于nsh编写的轻量级 HTTP(S) 抓包与调试代理
 - [charts-rs](https://github.com/vicanso/charts-rs) :fire: 纯rust的图表库，简单的json配置快速生成图表，支持`svg`、`png`、`jpeg`、`webp`与`avif`输出，提供`bar`，`line`，`horizon bar`，`pie`，`radar`，`scatter`，`candlestick`，`table`，`heatmap`，`funnel`，`waterfall`，`gauge`，`treemap`，`sankey`以及`multi chart`等二十二种图表类型。![Github stars](https://img.shields.io/github/stars/vicanso/charts-rs)
 - [charts-rs-web](https://github.com/vicanso/charts-rs-web) charts-rs 的在线演示与 HTTP 服务，以 json 的形式定义图表参数，可选择以 svg、png、jpeg、webp 或 avif 的形式返回，[在线体验](https://charts.npmtrend.com/)。
 - [zstats.app](https://github.com/vicanso/zstats.app) macOS 菜单栏系统监控，围绕「按应用定规则」构建：托盘实时显示 CPU，面板提供进程监控、每个程序可各设一条线的阈值告警与磁盘空间分析，支持识别并安全清理可再生缓存。
 - [zstats](https://github.com/vicanso/zstats) zstats.app 背后的系统性能指标采集库与命令行工具：统一且可序列化的数据模型（CPU、内存、磁盘、网络、进程、温度、GPU 等），采集与输出完全解耦，可并发写入多个 sink，采集开销可调低至托盘应用的水平。
-- [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于tauri的HTTP API客户端工具，更小更快。![Github stars](https://img.shields.io/github/stars/vicanso/cyberapi)
+- [CyberAPI](https://github.com/vicanso/cyberapi) :fire: 基于gupui的HTTP API客户端工具，更小更快。![Github stars](https://img.shields.io/github/stars/vicanso/cyberapi)
 - [diving-rs](https://github.com/vicanso/diving-rs) :fire: rust实现的镜像分析工具，直接从 registry 拉取镜像，不再依赖于docker client，性能更快更便捷。可逐层浏览文件，检测空间浪费、跨层重复文件以及泄漏的密钥文件等安全问题，支持 AI 优化报告与 CI 卡口，提供终端 TUI、Web、MCP 等多种使用方式。![Github stars](https://img.shields.io/github/stars/vicanso/diving-rs)
 - [ai-diving](https://github.com/vicanso/ai-diving) 把镜像分析（diving-rs）与 LLM 优化建议串成自动化流水线：镜像 push 后通过 Docker Hub Webhook 触发，自动产出「哪里劣化了、Dockerfile 该怎么改」的中文报告，支持企业微信与邮件通知，[在线体验](https://ai-diving.npmtrend.com/)。
 - [springbok](https://github.com/vicanso/springbok) :fire: 基于 Tauri 的桌面图片优化工具，支持 PNG、JPEG 压缩以及转换为 WebP、AVIF、JXL 格式，多系统版本的GUI工具，方便简单。![Github stars](https://img.shields.io/github/stars/vicanso/springbok)
